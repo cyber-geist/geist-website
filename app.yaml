@@ -1,0 +1,8 @@
+domains:
+- geist.wasmer.app
+kind: wasmer.io/App.v0
+name: cyber-geist-geist-website
+owner: cyber-geist
+package: .
+scaling:
+  mode: single_concurrency
