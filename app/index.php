@@ -11,7 +11,7 @@
     <body>
         <h1>Hello, world!</h1>
 <?php
-$response = "<p style='color:purple;'>PHP is working.</p>"
+echo "<p style='color:purple;'>PHP is working.</p>";
 ?>
 <hr/> 
 </body>
