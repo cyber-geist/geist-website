@@ -19,6 +19,8 @@
             <li>Rohan Chilukuri - <em>Windows</em></li>
             <li>El Elyon Akeya - <em>Linux</em></li>
         </ul>
-<hr/> 
+<hr/>
+        <h2>Training Round</h2>
+        <p>Every member of the team is required to partake in at least <u>one</u> training round. Those who are assigned to either windows or linux must download their image accordingly. Members pertained to Cisco Packet Tracer must complete their NetAcad course in coalescence with either a windows or linux traning round. This is to ensure that backups will be garunteed in case of an absence by either a windows or linux member.</p>
 </body>
 </html>
